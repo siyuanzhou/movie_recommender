@@ -1,0 +1,23 @@
+html {
+	position: relative;
+	min-height: 100%
+}
+
+body {
+	margin-bottom: 60px
+		/* Gives some space between page content and footer*/
+}
+
+footer {
+	position: absolute;
+	bottom: 0;
+	width: 100%;
+	height: 55px; /* Height of the footer */
+	background-color: #e5e5e5
+}
+
+.comment{
+  margin:30px auto;
+  overflow: hidden;
+  padding-bottom: 20px;
+}
