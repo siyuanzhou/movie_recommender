@@ -19,7 +19,7 @@
     <spring.version>4.3.3.RELEASE</spring.version>
     <spring-security.version>3.2.5.RELEASE</spring-security.version>
     <junit.version>4.12</junit.version>
-    <log4j.version>2.6.1</log4j.version>
+    <log4j.version>2.16.0</log4j.version>
   </properties>
 
   <dependencies>
